@@ -1,0 +1,600 @@
+{
+  "course": [
+    {
+      "id": "1",
+      "title": "Introduction to JavaScript",
+      "description": "De zéro à héros dans Material pour Angular. Ce cours a été écrit pour Angular 6, la dernière version..........",
+      "timeLeft": 36000,
+      "category": "1",
+      "progress": 0.5
+    },
+    {
+      "id": "2",
+      "title": "Advanced JavaScript Techniques",
+      "description": "Approfondissez vos connaissances en JavaScript avec des techniques avancées",
+      "timeLeft": 48000,
+      "category": "1",
+      "progress": 0.3
+    },
+    {
+      "id": "3",
+      "title": "JavaScript for Web Development",
+      "description": "Apprenez à utiliser JavaScript pour développer des applications web interactives",
+      "timeLeft": 42000,
+      "category": "1",
+      "progress": 0.8
+    },
+    {
+      "id": "4",
+      "title": "Mastering ES6 and Beyond",
+      "description": "Une plongée approfondie dans les fonctionnalités avancées de JavaScript ES6 et au-delà",
+      "timeLeft": 36000,
+      "category": "1",
+      "progress": 0.6
+    },
+    {
+      "id": "5",
+      "title": "JavaScript Design Patterns",
+      "description": "Comprendre et utiliser les design patterns en JavaScript pour écrire du code plus maintenable",
+      "timeLeft": 30000,
+      "category": "1",
+      "progress": 0.4
+    },
+    {
+      "id": "6",
+      "title": "JavaScript Data Structures and Algorithms",
+      "description": "Améliorez vos compétences en JavaScript en apprenant les structures de données et les algorithmes",
+      "timeLeft": 54000,
+      "category": "1",
+      "progress": 0.7
+    },
+    {
+      "id": "7",
+      "title": "React for Beginners",
+      "description": "Une introduction complète à React, la bibliothèque JavaScript populaire pour la création d'interfaces utilisateur",
+      "timeLeft": 36000,
+      "category": "2",
+      "progress": 0.2
+    },
+    {
+      "id": "8",
+      "title": "Advanced React Patterns",
+      "description": "Apprenez des techniques avancées pour optimiser vos applications React",
+      "timeLeft": 48000,
+      "category": "2",
+      "progress": 0.5
+    },
+    {
+      "id": "9",
+      "title": "React State Management with Redux",
+      "description": "Maîtrisez la gestion de l'état dans vos applications React avec Redux",
+      "timeLeft": 42000,
+      "category": "2",
+      "progress": 0.6
+    },
+    {
+      "id": "10",
+      "title": "Building Modern Web Apps with React",
+      "description": "Développez des applications web modernes et performantes avec React",
+      "timeLeft": 36000,
+      "category": "2",
+      "progress": 0.8
+    },
+    {
+      "id": "11",
+      "title": "Node.js for Beginners",
+      "description": "Une introduction complète à Node.js, le runtime JavaScript pour le développement côté serveur",
+      "timeLeft": 30000,
+      "category": "3",
+      "progress": 0.4
+    },
+    {
+      "id": "12",
+      "title": "Building APIs with Node.js",
+      "description": "Apprenez à créer des API robustes et évolutives avec Node.js",
+      "timeLeft": 54000,
+      "category": "3",
+      "progress": 0.7
+    },
+    {
+      "id": "13",
+      "title": "Express.js Essentials",
+      "description": "Maîtrisez Express.js, le framework web minimaliste pour Node.js",
+      "timeLeft": 36000,
+      "category": "3",
+      "progress": 0.2
+    },
+    {
+      "id": "14",
+      "title": "Full-Stack Development with Node.js and MongoDB",
+      "description": "Développez des applications full-stack avec Node.js et MongoDB",
+      "timeLeft": 48000,
+      "category": "3",
+      "progress": 0.5
+    },
+    {
+      "id": "15",
+      "title": "Vue.js for Beginners",
+      "description": "Une introduction complète à Vue.js, le framework JavaScript progressif pour la construction d'interfaces utilisateur",
+      "timeLeft": 42000,
+      "category": "4",
+      "progress": 0.6
+    },
+    {
+      "id": "16",
+      "title": "Advanced Vue.js Techniques",
+      "description": "Approfondissez vos connaissances en Vue.js avec des techniques avancées",
+      "timeLeft": 36000,
+      "category": "4",
+      "progress": 0.8
+    },
+    {
+      "id": "17",
+      "title": "Vue.js State Management with Vuex",
+      "description": "Maîtrisez la gestion de l'état dans vos applications Vue.js avec Vuex",
+      "timeLeft": 30000,
+      "category": "4",
+      "progress": 0.4
+    },
+    {
+      "id": "18",
+      "title": "Building Single Page Applications with Vue.js",
+      "description": "Développez des applications à page unique performantes avec Vue.js",
+      "timeLeft": 54000,
+      "category": "4",
+      "progress": 0.7
+    },
+    {
+      "id": "19",
+      "title": "Angular for Beginners",
+      "description": "Une introduction complète à Angular, le framework JavaScript pour le développement d'applications web robustes",
+      "timeLeft": 36000,
+      "category": "5",
+      "progress": 0.2
+    },
+    {
+      "id": "20",
+      "title": "Advanced Angular Techniques",
+      "description": "Approfondissez vos connaissances en Angular avec des techniques avancées",
+      "timeLeft": 48000,
+      "category": "2",
+      "progress": 0.5
+    },
+    {
+      "id": "21",
+      "title": "Angular Forms and Validation",
+      "description": "Maîtrisez la gestion des formulaires et la validation dans Angular",
+      "timeLeft": 42000,
+      "category": "5",
+      "progress": 0.6
+    },
+    {
+      "id": "22",
+      "title": "Building Enterprise Applications with Angular",
+      "description": "Développez des applications d'entreprise robustes et évolutives avec Angular",
+      "timeLeft": 36000,
+      "category": "5",
+      "progress": 0.8
+    },
+    {
+      "id": "23",
+      "title": "Python for Beginners",
+      "description": "Une introduction complète à Python, le langage de programmation polyvalent",
+      "timeLeft": 30000,
+      "category": "6",
+      "progress": 0.4
+    },
+    {
+      "id": "24",
+      "title": "Advanced Python Programming",
+      "description": "Approfondissez vos connaissances en Python avec des techniques avancées",
+      "timeLeft": 54000,
+      "category": "6",
+      "progress": 0.7
+    },
+    {
+      "id": "25",
+      "title": "Python for Data Science",
+      "description": "Apprenez à utiliser Python pour l'analyse de données et la science des données",
+      "timeLeft": 36000,
+      "category": "6",
+      "progress": 0.2
+    },
+    {
+      "id": "26",
+      "title": "Web Scraping with Python",
+      "description": "Maîtrisez l'art du web scraping avec Python pour extraire des données de sites web",
+      "timeLeft": 48000,
+      "category": "6",
+      "progress": 0.5
+    },
+    {
+      "id": "27",
+      "title": "Django for Beginners",
+      "description": "Une introduction complète à Django, le framework web Python pour le développement rapide d'applications web",
+      "timeLeft": 42000,
+      "category": "6",
+      "progress": 0.6
+    },
+    {
+      "id": "28",
+      "title": "Advanced Django Techniques",
+      "description": "Approfondissez vos connaissances en Django avec des techniques avancées",
+      "timeLeft": 36000,
+      "category": "6",
+      "progress": 0.8
+    },
+    {
+      "id": "29",
+      "title": "Full-Stack Development with Django and React",
+      "description": "Développez des applications full-stack avec Django et React",
+      "timeLeft": 30000,
+      "category": "6",
+      "progress": 0.4
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "frontend"
+    },
+    {
+      "id": "2",
+      "name": "backend"
+    },
+    {
+      "id": "3",
+      "name": "Mobile"
+    },
+    {
+      "id": "4",
+      "name": "Ai"
+    },
+    {
+      "id": "5",
+      "name": "iheb"
+    }
+  ],
+  "chapter": [
+     {
+       "chapter_number": 1,
+       "title": "Python Basics",
+       "description": "An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.",
+       "lessons": [
+         {
+           "id": 1,
+           "title": "Commencer",
+           "content": "Getting started with Python, installation, and setting up the environment.",
+           "type": "video"
+         },
+         {
+           "id": 2,
+           "title": "When to use Python?",
+           "content": "Understanding the scenarios and applications where Python is most effective.",
+           "type": "article"
+         },
+         {
+           "id": 3,
+           "title": "The Python Interface",
+           "content": "Introduction to the Python interactive shell and scripting environment.",
+           "type": "article"
+         },
+         {
+           "id": 4,
+           "title": "Python as a calculator!",
+           "content": "Using Python for basic arithmetic operations and mathematical calculations.",
+           "type": "video"
+         },
+         {
+           "id": 5,
+           "title": "Multiple arguments",
+           "content": "How to work with functions that take multiple arguments.",
+           "type": "article"
+         },
+         {
+           "id": 6,
+           "title": "Test de niveau 1",
+           "content": "Level 1 test to evaluate your understanding of basic Python concepts.",
+           "type": "article"
+         }
+       ]
+     },
+    {
+      "chapter_number": 2,
+      "title": "Control Flow",
+      "description": "Learn how to control the flow of your Python programs using conditional statements and loops.",
+      "lessons": [
+        {
+          "id": 7,
+          "title": "If statements",
+          "content": "Using if, elif, and else statements to control program flow."
+        },
+        {
+          "id": 8,
+          "title": "For loops",
+          "content": "Iterating over sequences using for loops."
+        },
+        {
+          "id": 9,
+          "title": "While loops",
+          "content": "Repeating operations with while loops."
+        },
+        {
+          "id": 10,
+          "title": "Break and continue",
+          "content": "Controlling loop execution with break and continue statements."
+        },
+        {
+          "id": 11,
+          "title": "Test de niveau 2",
+          "content": "Level 2 test to evaluate your understanding of control flow in Python."
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Functions and Packages",
+      "description": "You'll learn how to use functions, methods, and packages to efficiently leverage the code that brilliant Python developers have written. The goal is to reduce the amount of code you need to solve challenging problems!",
+      "lessons": [
+        {
+          "id": 12,
+          "title": "Functions",
+          "content": "Defining and calling functions in Python."
+        },
+        {
+          "id": 13,
+          "title": "Familiar functions",
+          "content": "Using built-in Python functions to perform common tasks."
+        },
+        {
+          "id": 14,
+          "title": "Help!",
+          "content": "Using the help function and documentation to learn about new functions and modules."
+        },
+        {
+          "id": 15,
+          "title": "Multiple arguments",
+          "content": "Handling functions that take multiple arguments, including default and keyword arguments."
+        },
+        {
+          "id": 16,
+          "title": "Test de niveau 3",
+          "content": "Level 3 test to evaluate your understanding of functions and packages."
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Data Structures",
+      "description": "Understand and use Python's built-in data structures: lists, tuples, sets, and dictionaries.",
+      "lessons": [
+        {
+          "id": 17,
+          "title": "Lists",
+          "content": "Creating and manipulating lists."
+        },
+        {
+          "id": 18,
+          "title": "Tuples",
+          "content": "Using tuples for immutable sequences of elements."
+        },
+        {
+          "id": 19,
+          "title": "Sets",
+          "content": "Working with sets for unique collections of elements."
+        },
+        {
+          "id": 20,
+          "title": "Dictionaries",
+          "content": "Storing and accessing data using key-value pairs in dictionaries."
+        },
+        {
+          "id": 21,
+          "title": "Comprehensions",
+          "content": "Using list and dictionary comprehensions for concise and readable code."
+        },
+        {
+          "id": 22,
+          "title": "Test de niveau 4",
+          "content": "Level 4 test to evaluate your understanding of Python's data structures."
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Modules and Packages",
+      "description": "Learn how to organize your code with modules and packages, and how to use libraries to add functionality to your programs.",
+      "lessons": [
+        {
+          "id": 23,
+          "title": "Importing modules",
+          "content": "How to import and use modules in your Python programs."
+        },
+        {
+          "id": 24,
+          "title": "Standard library",
+          "content": "Overview of Python's standard library and commonly used modules."
+        },
+        {
+          "id": 25,
+          "title": "Creating packages",
+          "content": "Organizing your code into packages for better structure and reusability."
+        },
+        {
+          "id": 26,
+          "title": "Third-party packages",
+          "content": "Using pip to install and manage third-party packages."
+        },
+        {
+          "id": 27,
+          "title": "Test de niveau 5",
+          "content": "Level 5 test to evaluate your understanding of modules and packages."
+        }
+      ]
+    }
+  ],
+  "lesson": [
+    {
+      "id": 1,
+      "title": "Commencer",
+      "content": "Getting started with Python, installation, and setting up the environment.",
+      "type": "video"
+    },
+    {
+      "id": 2,
+      "title": "When to use Python?",
+      "content": "Understanding the scenarios and applications where Python is most effective.",
+      "type": "article"
+    },
+    {
+      "id": 3,
+      "title": "The Python Interface",
+      "content": "Introduction to the Python interactive shell and scripting environment.",
+      "type": "article"
+    },
+    {
+      "id": 4,
+      "title": "Python as a calculator!",
+      "content": "Using Python as a calculator to perform basic arithmetic operations.",
+      "type": "video"
+    },
+    {
+      "id": 5,
+      "title": "Multiple arguments",
+      "content": "How to work with functions that take multiple arguments.",
+      "type": "article"
+    },
+    {
+      "id": 6,
+      "title": "Test de niveau 1",
+      "content": "Level 1 test to evaluate your understanding of basic Python concepts.",
+      "type": "article"
+    },
+    {
+      "id": 7,
+      "title": "If statements",
+      "content": "Using if, elif, and else statements to control program flow.",
+      "type": "article"
+    },
+    {
+      "id": 8,
+      "title": "For loops",
+      "content": "Iterating over sequences using for loops.",
+      "type": "article"
+    },
+    {
+      "id": 9,
+      "title": "While loops",
+      "content": "Repeating operations with while loops.",
+      "type": "article"
+    },
+    {
+      "id": 10,
+      "title": "Break and continue",
+      "content": "Controlling loop execution with break and continue statements.",
+      "type": "article"
+    },
+    {
+      "id": 11,
+      "title": "Test de niveau 2",
+      "content": "Level 2 test to evaluate your understanding of control flow in Python.",
+      "type": "article"
+    },
+    {
+      "id": 12,
+      "title": "Functions",
+      "content": "Defining and calling functions in Python.",
+      "type": "article"
+    },
+    {
+      "id": 13,
+      "title": "Familiar functions",
+      "content": "Using built-in Python functions to perform common tasks.",
+      "type": "article"
+    },
+    {
+      "id": 14,
+      "title": "Help!",
+      "content": "Using the help function and documentation to learn about new functions and modules.",
+      "type": "article"
+    },
+    {
+      "id": 15,
+      "title": "Multiple arguments",
+      "content": "Handling functions that take multiple arguments, including default and keyword arguments.",
+      "type": "article"
+    },
+    {
+      "id": 16,
+      "title": "Test de niveau 3",
+      "content": "Level 3 test to evaluate your understanding of functions and packages.",
+      "type": "article"
+    },
+    {
+      "id": 17,
+      "title": "Lists",
+      "content": "Creating and manipulating lists.",
+      "type": "article"
+    },
+    {
+      "id": 18,
+      "title": "Tuples",
+      "content": "Using tuples for immutable sequences of elements.",
+      "type": "article"
+    },
+    {
+      "id": 19,
+      "title": "Sets",
+      "content": "Working with sets for unique collections of elements.",
+      "type": "article"
+    },
+    {
+      "id": 20,
+      "title": "Dictionaries",
+      "content": "Storing and accessing data using key-value pairs in dictionaries.",
+      "type": "article"
+    },
+    {
+      "id": 21,
+      "title": "Comprehensions",
+      "content": "Using list and dictionary comprehensions for concise and readable code.",
+      "type": "article"
+    },
+    {
+      "id": 22,
+      "title": "Test de niveau 4",
+      "content": "Level 4 test to evaluate your understanding of Python's data structures.",
+      "type": "article"
+    },
+    {
+      "id": 23,
+      "title": "Importing modules",
+      "content": "How to import and use modules in your Python programs.",
+      "type": "article"
+    },
+    {
+      "id": 24,
+      "title": "Standard library",
+      "content": "Overview of Python's standard library and commonly used modules.",
+      "type": "article"
+    },
+    {
+      "id": 25,
+      "title": "Creating packages",
+      "content": "Organizing your code into packages for better structure and reusability.",
+      "type": "article"
+    },
+    {
+      "id": 26,
+      "title": "Third-party packages",
+      "content": "Using pip to install and manage third-party packages.",
+      "type": "article"
+    },
+    {
+      "id": 27,
+      "title": "Test de niveau 5",
+      "content": "Level 5 test to evaluate your understanding of modules and packages.",
+      "type": "article"
+    }
+  ]
+}
