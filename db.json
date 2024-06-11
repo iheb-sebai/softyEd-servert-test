@@ -1,4 +1,9 @@
 {
+  "user": {
+    "firstName": "iheb",
+    "lastName": "sebai",
+    "email": "ihebsebai@gmail.com"
+  },
   "course": [
     {
       "id": "1",
@@ -256,49 +261,49 @@
     }
   ],
   "chapter": [
-     {
-       "chapter_number": 1,
-       "title": "Python Basics",
-       "description": "An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.",
-       "lessons": [
-         {
-           "id": 1,
-           "title": "Commencer",
-           "content": "Getting started with Python, installation, and setting up the environment.",
-           "type": "video"
-         },
-         {
-           "id": 2,
-           "title": "When to use Python?",
-           "content": "Understanding the scenarios and applications where Python is most effective.",
-           "type": "article"
-         },
-         {
-           "id": 3,
-           "title": "The Python Interface",
-           "content": "Introduction to the Python interactive shell and scripting environment.",
-           "type": "article"
-         },
-         {
-           "id": 4,
-           "title": "Python as a calculator!",
-           "content": "Using Python for basic arithmetic operations and mathematical calculations.",
-           "type": "video"
-         },
-         {
-           "id": 5,
-           "title": "Multiple arguments",
-           "content": "How to work with functions that take multiple arguments.",
-           "type": "article"
-         },
-         {
-           "id": 6,
-           "title": "Test de niveau 1",
-           "content": "Level 1 test to evaluate your understanding of basic Python concepts.",
-           "type": "article"
-         }
-       ]
-     },
+    {
+      "chapter_number": 1,
+      "title": "Python Basics",
+      "description": "An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.",
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Commencer",
+          "content": "Getting started with Python, installation, and setting up the environment.",
+          "type": "video"
+        },
+        {
+          "id": 2,
+          "title": "When to use Python?",
+          "content": "Understanding the scenarios and applications where Python is most effective.",
+          "type": "article"
+        },
+        {
+          "id": 3,
+          "title": "The Python Interface",
+          "content": "Introduction to the Python interactive shell and scripting environment.",
+          "type": "article"
+        },
+        {
+          "id": 4,
+          "title": "Python as a calculator!",
+          "content": "Using Python for basic arithmetic operations and mathematical calculations.",
+          "type": "video"
+        },
+        {
+          "id": 5,
+          "title": "Multiple arguments",
+          "content": "How to work with functions that take multiple arguments.",
+          "type": "article"
+        },
+        {
+          "id": 6,
+          "title": "Test de niveau 1",
+          "content": "Level 1 test to evaluate your understanding of basic Python concepts.",
+          "type": "article"
+        }
+      ]
+    },
     {
       "chapter_number": 2,
       "title": "Control Flow",
