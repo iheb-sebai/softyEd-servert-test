@@ -601,5 +601,56 @@
       "content": "Level 5 test to evaluate your understanding of modules and packages.",
       "type": "article"
     }
+  ],
+  "registration": [
+    {
+      "title": "Advanced Angular Techniques",
+      "description": "Améliorez vos compétences en JavaScript en apprenant les structures de données et les algorithmes",
+      "instructor": ["John Harrison", "John Johnson"],
+      "nbr_video": 8,
+      "progress":0.7
+    },
+    {
+      "title": "Advanced CSS Techniques",
+      "description": "Améliorez vos compétences en JavaScript en apprenant les structures de données et les algorithmes",
+      "instructor": ["John Harrison", "John Johnson"],
+      "nbr_video": 10,
+      "progress":0.2
+    },
+    {
+      "title": "Advanced HTML Techniques",
+      "description": "Améliorez vos compétences en JavaScript en apprenant les structures de données et les algorithmes",
+      "instructor": ["John Harrison", "John Johnson"],
+      "nbr_video": 5,
+      "progress":0.5
+    },
+    {
+      "title": "Advanced JavaScript Techniques",
+      "description": "Améliorez vos compétences en JavaScript en apprenant les structures de données et les algorithmes",
+      "instructor": ["John Harrison", "John Johnson"],
+      "nbr_video": 7,
+      "progress":0.1
+    },
+    {
+      "title": "Advanced Node.js Techniques",
+      "description": "Améliorez vos compétences en JavaScript en apprenant les structures de données et les algorithmes",
+      "instructor": ["John Harrison", "John Johnson"],
+      "nbr_video": 5,
+      "progress":0.3
+    },
+    {
+      "title": "Advanced React Techniques",
+      "description": "Améliorez vos compétences en JavaScript en apprenant les structures de données et les algorithmes",
+      "instructor": ["John Harrison", "John Johnson"],
+      "nbr_video": 2,
+      "progress":0.7
+    },
+    {
+      "title": "Advanced SQL Techniques",
+      "description": "Améliorez vos compétences en JavaScript en apprenant les structures de données et les algorithmes",
+      "instructor": ["John Harrison", "John Johnson"],
+      "nbr_video": 5,
+      "progress":0.7
+    }
   ]
 }
