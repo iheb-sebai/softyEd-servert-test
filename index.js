@@ -21,8 +21,8 @@ server.use((req, res, next) => {
 
         // Check if responseBody is an array and process pagination
         if (Array.isArray(responseBody)) {
-            const page = parseInt(req.query._page) || 1; // Default to page 1
-            const limit = parseInt(req.query._limit) || 10; // Default to limit 10
+            const page = parseInt(req.query._page, 10) || 1; // Default to page 1
+            const limit = parseInt(req.query._limit, 10) || 10; // Default to limit 10
             const startIndex = (page - 1) * limit;
             const endIndex = page * limit;
 
